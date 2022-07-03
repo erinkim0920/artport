@@ -6,6 +6,7 @@ h1{
 
 .italic_text {
     font-style: italic;
+    margin: 10px;
     color: red;
 }
 
