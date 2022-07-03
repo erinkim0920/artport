@@ -1,11 +1,19 @@
 h1{
+    font-family: "Times New Roman"; 
     color: blue;
+    text-align: center;
 }
 
-.red_text {
+.italic_text {
+    font-style: italic;
     color: red;
 }
 
 #yellow_text {
+    font-weight: bold;
+    font-size: 15px;
     color: yellow;
 }
+
+
+
